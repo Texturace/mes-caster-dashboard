@@ -34,7 +34,9 @@ This project did take a substantial amount of time to troubleshoot and create. I
 - Licensing will help me afford 2-ply toilet paper instead of 1-ply.
 - Licensing will go back into MES to help pay coaches and fund team entry fees.
 - An eventual domain so that I don't have to use a generic "onboarding@resend.dev" email for key distribution
+  
 If you need anything special, please email me at "mes-dashboard.claim881@passmail.net". As the sole admin, I have the power to create custom keys. If you need a special arrangement, then we can work something out.
+
 For general needs, you can select which plan fits best for you here: 
 
 ## Shameless Plug

@@ -1,6 +1,8 @@
 # MES Casting Dashboard
 This is a companion app to Streamlabs/OBS to allow for higher quality content when casting. It provides a Draft Screen, Head-to-Head Screen, Brackets, and Groups. As this grows, I will attempt to incorporate Riot API and Drafter API to improve quality of life, and to eventually create in-game templates as well. Currently, everything relies on manual inputs in the dashboard. v1.0.6 is the first official release (previous versions were internal testing or included updates suggested by people interested in the project).
 
+Current release download: https://github.com/Texturace/mes-casting-dashboard/releases/tag/v1.0.6
+
 ## Current Features
 - Fully functional draft (Picks and Bans populate in the correct order AND each lock-in has a spotlight animation)
 - Role Assignment Menu (Assign picks to roles so that other screens appear correct)

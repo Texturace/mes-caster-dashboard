@@ -4,7 +4,7 @@ I'm currently pushing v1.1.0. There are a handful of QoL bugs to work through, b
 # MES Casting Dashboard
 This is a companion app to Streamlabs/OBS to allow for higher quality content when casting. It provides a Draft Screen, Head-to-Head Screen, Brackets, and Groups. As this grows, I will attempt to incorporate Riot API and Drafter API to improve quality of life, and to eventually create in-game templates as well. Currently, everything relies on manual inputs in the dashboard. v1.0.6 is the first official release (previous versions were internal testing or included updates suggested by people interested in the project).
 
-Current release download: https://github.com/Texturace/mes-casting-dashboard/releases/tag/v1.0.6
+Current release download: https://github.com/Texturace/mes-casting-dashboard/releases/tag/v1.1.0
 
 Video demonstration of me using the tool: https://youtu.be/b9MbJszumbY
 
